@@ -1,8 +1,8 @@
 {
   "name": "webinar-performance-dashboard",
-  "homepage": "https://jia-deriv.github.io/Webinar-Performance-Dashboard",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://jia-deriv.github.io/Webinar-Performance-Dashboard/",
   "type": "module",
   "scripts": {
     "dev": "vite",
